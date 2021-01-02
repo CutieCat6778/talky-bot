@@ -5,7 +5,7 @@ module.exports = (rep, message) => {
     }
     if(rep.includes("${date}")) {
         const time = new Date()
-        rep = rep.replace('${date}', `**${time.getDate()}/${time.getMonth()}/${time.getFullYear()}** (UTC time)`)
+        rep = rep.replace('${date}', `**${time.getDate()}/${time.getMonth() + 1}/${time.getFullYear()}** (UTC time)`)
     }
     if(rep.includes("${membercount}")) {
         rep = rep.replace('${membercount}', message.guild.memberCount)
