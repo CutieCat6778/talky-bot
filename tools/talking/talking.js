@@ -26,7 +26,7 @@ module.exports = async(message) => {
     let rep = response[0].queryResult.fulfillmentText  //Default response
     if(rep.includes("${time}")) {
         const time = new Date()
-        rep = rep.replace('${time}', `**${time.getHours()}:${time.getMinutes()}**`)
+        rep = rep.replace('${time}', `**${time.getHours()}:${time.getMinutes()}** (CET time)`)
     }
     message.channel.type == 'dm' ? message.reply(rep) : message.channel.send(rep);
 }
