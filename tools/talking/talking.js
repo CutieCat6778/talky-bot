@@ -23,10 +23,7 @@ module.exports = async(message) => {
         }
     };
     const response = await sessionClient.detectIntent(request);
-    let rep = response[0].queryResult.fulfillmentText  //Default response
-    if(rep.includes("${time}")) {
-        const time = new Date()
-        rep = rep.replace('${time}', `**${time.getHours()}:${time.getMinutes()}** (UTC time)`)
-    }
-    message.channel.type == 'dm' ? message.reply(rep) : message.channel.send(rep);
+    const rep = response[0].queryResult.fulfillmentText  //Default response
+    const text = require('../functions/convert')(rep, message);
+    message.channel.type == 'dm' ? message.reply(text) : message.channel.send(text);
 }
