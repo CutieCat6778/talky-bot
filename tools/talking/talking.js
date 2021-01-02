@@ -23,6 +23,10 @@ module.exports = async(message) => {
         }
     };
     const response = await sessionClient.detectIntent(request);
-    const rep = response[0].queryResult.fulfillmentText  //Default response
+    let rep = response[0].queryResult.fulfillmentText  //Default response
+    if(rep.includes("${time}")) {
+        const time = new Date()
+        rep = rep.replace('${time}', `**${time.getHours()}:${time.getMinutes()}**`)
+    }
     message.channel.type == 'dm' ? message.reply(rep) : message.channel.send(rep);
 }
