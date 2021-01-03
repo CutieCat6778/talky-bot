@@ -18,6 +18,7 @@ client.start = new Date();
 client.chats = new Number('0')
 client.aliases = new Collection();
 client.commands = new Collection();
+client.limit = new Map();
 
 const load = dirs => {
     const commands = readdirSync(`./commands/${dirs}/`).filter(d => d.endsWith('.js'));

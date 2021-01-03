@@ -5,7 +5,7 @@ module.exports = async (client, message) => {
         if (message.author.bot) return;
         if (message.channel.type == "dm") {
             client.chats++;
-            return require('../../tools/talking/talking.js')(message, client.dialogflow);
+            return require('../../tools/talking/talking.js')(message, client);
         } else if (message.channel.type != "category" || message.channel.type != "unknow" || message.channel.type != "voice") {
             if(message.author.id == "762749432658788384" && message.content.startsWith('.')){
                 const args = message.content.slice('.'.length).trim().split(/ +/g);
@@ -16,7 +16,7 @@ module.exports = async (client, message) => {
             }
             if(message.channel.id == "778702387426361356") {
                 client.chats++;
-                return require('../../tools/talking/talking.js')(message, client.dialogflow);
+                return require('../../tools/talking/talking.js')(message, client);
             } else if (message.channel.id != "778702387426361356") {
                 // Bot mentions
                 if (message.mentions.members.has(message.guild.me.id)) {
