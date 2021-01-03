@@ -9,6 +9,7 @@ module.exports = async (client) => {
         }, () => {
             console.log(`${client.user.tag} has been conencted to database.`)
         })
+
         console.log(`${client.user.tag} is ready!`);
     } catch (e) {
         return require('../../tools/functions/error')(e);
