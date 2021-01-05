@@ -1,0 +1,41 @@
+{
+  "id": "047a3066-cdfb-405f-9d3a-d8257bee77d3",
+  "name": "Asking does boy or girl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well, I\u0027m a Robot, so you can call me whatever you want.",
+            "I\u0027m a robot",
+            "I\u0027m a machine, that learn from you in anytime.",
+            "I\u0027m a machine learning, made by CutieCat#6778",
+            "Ask CutieCar#6778, I dunno.",
+            "Maybe I\u0027m gay :DD",
+            "¯\\_(ツ)_/¯"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

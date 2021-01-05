@@ -1,0 +1,43 @@
+{
+  "id": "cd4b1afb-9153-45a2-92d1-c6ba23632557",
+  "name": "Swearing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No you!",
+            "Stfu idiot.",
+            "Ha ha ha ha ha, are you talking about ur self?",
+            "Gay.",
+            "Just stfu, nobody cares"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "SWAERING"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ebaecf31-3637-4ed9-8b75-66bd9cbfee96",
+  "name": "Teaching about something",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No, I don\u0027t, but can you tell me?",
+            "I don\u0027t know, but maybe you can tell me more about it.",
+            "Can you tell me what is it?",
+            "Can you tell me more about it ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TEACHING"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

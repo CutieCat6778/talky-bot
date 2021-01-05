@@ -1,0 +1,43 @@
+{
+  "id": "a5557091-d382-43a2-8695-2fb7cd3eecff",
+  "name": "Asking about personal life",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks, it was pretty nice.",
+            "It was very well.",
+            "The most Wonderful days",
+            "The best day of my life.",
+            "It was Super!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ASKING_ABOUT_HIS_LIFE"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "92a8e415-5f16-438d-a403-16426eeb4577",
+  "name": "Asking about Parent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have only one Parent and it is a Cat",
+            "CutieCat#6778",
+            "A Cat, but very cute",
+            "*It is a cat*",
+            "smh, it is not your problem"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

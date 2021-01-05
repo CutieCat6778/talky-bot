@@ -1,0 +1,40 @@
+{
+  "id": "b0d7502a-a19d-476c-9596-943f5b83eb01",
+  "name": "I gtg bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok . . . Bye",
+            "Ok bye, see ya later",
+            "See you later \u003c3",
+            "Bye ma baby",
+            "Ok bye",
+            "Bye \u003c3"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

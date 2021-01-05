@@ -26,6 +26,9 @@ module.exports = async (client, message) => {
                         message.channel.send(embed);
                     }
                 }
+            } if(message.content.startsWith('-')){
+                message.content = require('../../tools/string/cleanUpString')(message.content);
+                return require('../../tools/talking/talking')(message, client);
             }
         }
     } catch (e) {

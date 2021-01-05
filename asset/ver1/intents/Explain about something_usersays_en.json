@@ -1,0 +1,401 @@
+[
+  {
+    "id": "e119e93f-f956-4165-b6cb-e437b5ed3fa6",
+    "data": [
+      {
+        "text": "Cutie ",
+        "userDefined": false
+      },
+      {
+        "text": "Cat",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": ", not Cutie Car lol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee30e7f7-84d9-4eb2-83da-f53f327a494a",
+    "data": [
+      {
+        "text": "Discord is a chat application that ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " you comunicate with me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aabf3ac3-6290-4054-bc63-ef20560dc749",
+    "data": [
+      {
+        "text": "Discord is a chat application that ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " you comunicate with me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb262c7b-a348-4632-9921-4c0fe6d3e872",
+    "data": [
+      {
+        "text": "Life is like a sex, it goes Up and down and the result can be bad or good.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcf24e69-9281-496b-9e56-e6fc66af23ef",
+    "data": [
+      {
+        "text": "you have to answer WHAT DO YOU WANT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7c1f6ca-3bec-410a-a34f-30e2f94bd72c",
+    "data": [
+      {
+        "text": "Computer is a Machine that help human talking to bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "221dbd82-33d3-434c-836e-663ccb3991a8",
+    "data": [
+      {
+        "text": "It is a Computer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bcd7dae-9918-41c7-a095-df08bfe9144f",
+    "data": [
+      {
+        "text": "Computer is a machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9176b4af-bec9-491e-8aa2-424c03795345",
+    "data": [
+      {
+        "text": "IT IS A MACHINE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fce90fc2-1f32-427b-aaf3-b3b99dc0927d",
+    "data": [
+      {
+        "text": "it is a machine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a4f2658-a163-4d41-aaf8-5cfe46254baa",
+    "data": [
+      {
+        "text": "Chick",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " is a animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b9334c5-479d-4f9a-bbe7-25e7aca49041",
+    "data": [
+      {
+        "text": "chicken is an animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a58cc17-3a9c-4b06-8c3b-42da663edea2",
+    "data": [
+      {
+        "text": "Sex is a thing that people does everyday.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cdcb527-50f2-4ce7-96de-ff66ec30e6d2",
+    "data": [
+      {
+        "text": "Chick is a aniaml",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c92a392-d494-4d8c-8253-d84dd14d391d",
+    "data": [
+      {
+        "text": "it mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1670cb66-0311-47b7-ad6f-202184dd9769",
+    "data": [
+      {
+        "text": "it means",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e69ebdc-f770-4177-9871-8a849fa1d15f",
+    "data": [
+      {
+        "text": "it is an",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2acbd4de-8556-4317-b55d-f8ac53f47354",
+    "data": [
+      {
+        "text": "it is a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51918387-09ea-4d23-817d-1b05958b2e4f",
+    "data": [
+      {
+        "text": "the meaning of",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6730394d-032a-41be-a3f7-66e780830f46",
+    "data": [
+      {
+        "text": "Is a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a03b895-c95e-4758-aec5-c68e98bfd8e9",
+    "data": [
+      {
+        "text": "Robots are something like you, they are smart or stupid but they are good friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc89b8d2-b4c7-47ce-8199-232a0318d41f",
+    "data": [
+      {
+        "text": "People means human but they are smart and know what they are doing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2978f237-9b19-409b-9c8b-5d9164961f76",
+    "data": [
+      {
+        "text": "Kids are human but they are young and anoying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "989855ad-f77b-4d5d-8304-2e2caa32cb3b",
+    "data": [
+      {
+        "text": "Computer help human a lots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c63b378c-51b8-4f06-8a9a-32b2282225c5",
+    "data": [
+      {
+        "text": "House means a place that people lives inside it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6298402-57f1-4186-b9cb-4fa6fb53a116",
+    "data": [
+      {
+        "text": "Sex is a thing that people do to get a Baby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "393e67d1-4c09-4a7f-a736-ba8cc23ce500",
+    "data": [
+      {
+        "text": "Pizza is a food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8157a352-6f83-41d2-9916-2ca157227329",
+    "data": [
+      {
+        "text": "Chicken means a animal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

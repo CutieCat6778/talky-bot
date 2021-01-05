@@ -1,0 +1,528 @@
+[
+  {
+    "id": "452d789b-bb4e-4a29-8684-215ec94b013f",
+    "data": [
+      {
+        "text": "Good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19634b50-9b6f-44a3-a461-54df2b320219",
+    "data": [
+      {
+        "text": "bruh, stop watching those things",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1248532-1754-4544-a561-50e33079fdb1",
+    "data": [
+      {
+        "text": "what",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cea8c0c5-3163-4b62-8ac2-7747ccad0a07",
+    "data": [
+      {
+        "text": "yes me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdb6b147-1973-49d6-a7f2-8fa6d0545c91",
+    "data": [
+      {
+        "text": "Hey ",
+        "userDefined": false
+      },
+      {
+        "text": "bro",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "200a59de-e847-45f2-b94f-a1c77d75f6fd",
+    "data": [
+      {
+        "text": "bruh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "948a9ac7-71c8-4251-b70d-7383d04a9b30",
+    "data": [
+      {
+        "text": "BRUH",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6acb2b7-5f3d-4514-8f84-019c5e011d89",
+    "data": [
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8efcf3b7-07b8-46ee-8242-f7fa78ad3107",
+    "data": [
+      {
+        "text": "Brr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42f2ebcf-9c58-4e5e-a725-fca6012eeb41",
+    "data": [
+      {
+        "text": "BRB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "760898f8-b670-4f63-aa5e-97bdcbc84a78",
+    "data": [
+      {
+        "text": "BRR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a59346ee-c022-4a55-86fe-5216cb76cc88",
+    "data": [
+      {
+        "text": "brb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40c26cc9-77d4-4968-a7ac-32e975f5c2d1",
+    "data": [
+      {
+        "text": "Bruh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ab41753-c1a9-4380-9820-16c1968f549f",
+    "data": [
+      {
+        "text": "what bro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd588237-0089-4cb4-9614-c822a97638ef",
+    "data": [
+      {
+        "text": "Tf dude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd9177ac-dc29-43f7-9deb-f6752fdab64f",
+    "data": [
+      {
+        "text": "???????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f5d130d-4d03-4f23-b95e-aa9c0c0f479c",
+    "data": [
+      {
+        "text": "?_?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d5e8756-bf03-45f1-9f09-7d8e7c3f399a",
+    "data": [
+      {
+        "text": "☺?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c74c5fc1-c389-4738-8fc3-23101e8868b6",
+    "data": [
+      {
+        "text": "tf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "119fdd4e-4a9e-419c-8719-cee8d0d53375",
+    "data": [
+      {
+        "text": "._.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39420b63-5f83-4c64-adc5-7a4b3c339844",
+    "data": [
+      {
+        "text": "tf was that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "120eead3-df0a-4e83-bbb5-90f64fa9934a",
+    "data": [
+      {
+        "text": "typo . ..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "163df309-4b8a-42fa-ba95-d9c1ca9fe194",
+    "data": [
+      {
+        "text": "☺/",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e04e00a-65cd-4862-97e3-a9664d3ad3fe",
+    "data": [
+      {
+        "text": "☺)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3b45b60-6777-478a-b731-611a3bcf30d8",
+    "data": [
+      {
+        "text": "Who tf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc3ae7cb-63de-4fef-8bd4-a031e8cb648b",
+    "data": [
+      {
+        "text": "What ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a1d8aa1-fb87-4d98-b978-36a4997a0f63",
+    "data": [
+      {
+        "text": "wtf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f05199e6-8151-4119-991d-6858c7d1942f",
+    "data": [
+      {
+        "text": "the fck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89b40945-e720-4c4d-9eaf-36698f479059",
+    "data": [
+      {
+        "text": "What the fck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ce0f4ba-58db-448d-bec7-4fd3943e223f",
+    "data": [
+      {
+        "text": "wht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d85b7c1-95e9-47ad-89d7-405710725a2e",
+    "data": [
+      {
+        "text": "waht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70dc61e3-e98e-41b1-993d-31188e411157",
+    "data": [
+      {
+        "text": "What the f",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e53cf87-78ba-40d1-99e9-eec9d82d7886",
+    "data": [
+      {
+        "text": "The f",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc4495c0-b7a2-4f66-b901-fc8eccad78d2",
+    "data": [
+      {
+        "text": "The fuck?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b930b514-91a8-433a-b819-3618f6bbc0dc",
+    "data": [
+      {
+        "text": "What the fuck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63ae8cc9-dc13-44dc-91cd-5c2ff58d16e4",
+    "data": [
+      {
+        "text": "☺)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "533530b3-c725-4045-b7e6-e784361406fa",
+    "data": [
+      {
+        "text": "Huh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9935b515-f631-49df-ade4-6e004e5db6c4",
+    "data": [
+      {
+        "text": "Wat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc8a32bb-4e13-46bb-9279-c9f7f2b6a5d2",
+    "data": [
+      {
+        "text": "Wut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a42111bb-1bc1-4069-aed9-6e9945f01aec",
+    "data": [
+      {
+        "text": "What?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "4293d5cc-6ee9-4eb5-9656-a7b5ae38cb3f",
+    "data": [
+      {
+        "text": "Relax",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4ee0cbf-b879-402e-b387-61b50a7034b8",
+    "data": [
+      {
+        "text": "Chill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "484051e3-d0c6-45be-9ac9-b9cab72a2a88",
+    "data": [
+      {
+        "text": "Relax bro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94b43a63-13f3-411d-8ef1-87ba3919c8ec",
+    "data": [
+      {
+        "text": "Chill bro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3524dc77-1100-48eb-add9-6aa477f8f218",
+    "data": [
+      {
+        "text": "Just sit there and relax",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

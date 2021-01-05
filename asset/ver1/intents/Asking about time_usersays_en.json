@@ -1,0 +1,132 @@
+[
+  {
+    "id": "c58cdb1c-dc6a-4191-a4a6-d657785c88ee",
+    "data": [
+      {
+        "text": "What is the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee31c361-5ed3-4ae1-a703-79fd04ca148c",
+    "data": [
+      {
+        "text": "what is the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4d340bd-b3c9-41f0-9f79-8286f9280eec",
+    "data": [
+      {
+        "text": "Can you tell me the time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a407190-237e-44e4-8c97-92579249f6ea",
+    "data": [
+      {
+        "text": "what is time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df55c678-7163-467f-87cf-9cc7ce7c01f6",
+    "data": [
+      {
+        "text": "What is the time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11d7089f-332d-4a1a-a127-1fb1ee6298b0",
+    "data": [
+      {
+        "text": "Can you tell me time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f36fcc91-cd05-4d98-8028-8f740330f9c5",
+    "data": [
+      {
+        "text": "What time it is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf8dc3a2-b807-41c0-9bca-adbd69d1db4f",
+    "data": [
+      {
+        "text": "Time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0b005eb-c899-4632-a7b2-ae729e5527d0",
+    "data": [
+      {
+        "text": "Can you tell me the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf75bffb-b3b7-470d-a52c-abce4ab743b5",
+    "data": [
+      {
+        "text": "Tell me the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

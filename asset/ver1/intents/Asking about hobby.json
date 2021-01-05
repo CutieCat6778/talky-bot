@@ -1,0 +1,54 @@
+{
+  "id": "6c3e7608-2c1a-4f50-a003-5099b9b33e41",
+  "name": "Asking about hobby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6132d464-544d-44ce-962a-56c23623fc80",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh yeah, I do.",
+            "Yes, I do.",
+            "No, I don\u0027t",
+            "Sorry, but I don\u0027t",
+            "Ofc, I do."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
