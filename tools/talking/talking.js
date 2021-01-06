@@ -32,5 +32,5 @@ module.exports = async (message, client) => {
     const text = require('../functions/convert')(rep, message);
     client.chats++;
     message.channel.type == 'dm' && limit ? limit.time = client.uptime : null
-    message.channel.type != 'dm' ? message.channel.send(`<@${message.author.id}> | ${text}`) : message.reply(text);
+    message.channel.type != 'dm' ? message.channel.send(`<@${message.author.id}> - ${text}`) : message.reply(text);
 }
