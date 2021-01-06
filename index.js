@@ -14,10 +14,11 @@ const config = {
 }
 const sessionClient = new SessionsClient(config)
 
-client.start = new Date();
+client.startUp = new Boolean(false);
 client.chats = new Number('0')
 client.aliases = new Collection();
 client.commands = new Collection();
+client.guild = new Collection();
 client.limit = new Map();
 
 const load = dirs => {
@@ -35,6 +36,7 @@ client.dialogflow = sessionClient;
 client.on('ready', require('./events/client/ready').bind(null, client));
 client.on('debug', require('./events/client/debug').bind(null, client));
 client.on('message', require('./events/guild/message').bind(null, client));
+client.on('guildDelete', require('./events/guild/guildDelete').bind(null, client));
+client.on('guildCreate', require('./events/guild/guildCreate').bind(null, client));
 
-console.log(process.env)
 client.login(process.env.BOT); 

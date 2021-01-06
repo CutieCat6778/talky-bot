@@ -1,5 +1,4 @@
 module.exports = (value) => {
-    console.log(value)
     if(typeof(value) == "string"){
         if (value.startsWith("<") && value.endsWith(">")) {
             if (value.includes("@")) {

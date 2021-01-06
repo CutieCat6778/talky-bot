@@ -9,9 +9,11 @@ module.exports = async (client) => {
         }, () => {
             console.log(`${client.user.tag} has been conencted to database.`)
         })
+        await require('../../tools/database/cache.js')(client);
         console.log(`${client.user.tag} is ready!`);
         setTimeout(async() => {
-            await client.user.setActivity(`DM`, {type: "WATCHING"});
+            client.startUp = true;
+            await client.user.setActivity(`DM or @Talky`, {type: "WATCHING"});
         }, 10000)
     } catch (e) {
         return require('../../tools/functions/error')(e);
