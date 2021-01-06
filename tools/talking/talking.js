@@ -32,5 +32,5 @@ module.exports = async (message, client) => {
     const text = require('../functions/convert')(rep, message);
     client.chats++;
     message.channel.type == 'dm' && limit ? limit.time = client.uptime : null
-    message.channel.type == 'dm' ? message.channel.send(text) : message.reply(text);
+    return message.reply(text);
 }
