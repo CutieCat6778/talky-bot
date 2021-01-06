@@ -1,11 +1,11 @@
 module.exports = (rep, message) => {
     if(rep.includes("${time}")) {
         const time = new Date()
-        rep = rep.replace('${time}', `**${time.getHours().length == 1 ? `0${time.getHours()}` : time.getHours()}:${time.getMinutes().length == 1 ? `0${time.getMinutes()}` : time.getMinutes()}** (UTC time)`)
+        rep = rep.replace('${time}', `**${time.getHours() < 10 ? `0${time.getHours()}` : time.getHours()}:${time.getMinutes() < 10 ? `0${time.getMinutes()}` : time.getMinutes()}** (UTC time)`)
     }
     if(rep.includes("${date}")) {
         const time = new Date()
-        rep = rep.replace('${date}', `**${time.getDate().length == 1 ? `0${time.getDate()}` : time.getDate()}/${time.getMonth().length == 1 ? `0${time.getMonth() + 1}` : time.getMonth() + 1}/${time.getFullYear()}** (UTC time)`)
+        rep = rep.replace('${date}', `**${time.getDate() < 10 ? `0${time.getDate()}` : time.getDate()}/${time.getMonth() < 10 ? `0${time.getMonth() + 1}` : time.getMonth() + 1}/${time.getFullYear()}** (UTC time)`)
     }
     if(rep.includes("${membercount}")) {
         rep = rep.replace('${membercount}', `**${message.guild.memberCount}**`)
